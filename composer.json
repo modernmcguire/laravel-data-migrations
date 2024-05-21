@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "ModernMcguire\\DataMigrations\\": "src/"
+            "Coderan\\DataMigrations\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ModernMcguire\\DataMigrations\\DataMigrationsServiceProvider"
+                "Coderan\\DataMigrations\\DataMigrationsServiceProvider"
             ]
         }
     }
